@@ -5,6 +5,7 @@ const os = require('os');
 const directoryToSearchOn = '.';
 const blacklistedDirectories = [
     '.git',
+    '.github',
     'node_modules',
     '.idea',
     'test',
