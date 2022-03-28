@@ -4,7 +4,7 @@
   "description": "Repository of information",
   "main": "index.js",
   "scripts": {
-    "genrateReadme": "node index.js",
+    "generate-readme": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
