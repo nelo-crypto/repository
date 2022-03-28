@@ -35,6 +35,10 @@ function getNameFromResourcePath(resourcePath) {
     return resourcePath.split('/').slice(-1)[0];
 }
 
+function generatePdfFileUrlFromResourcePath(resourcePath) {
+    return baseUrl + encodeURIComponent(resourcePath);
+}
+
 async function scanDirectory(directoryPath, level) {
     console.log('ScanDirectory', level, directoryPath);
 
@@ -55,7 +59,7 @@ async function scanDirectory(directoryPath, level) {
             if (isValidPdfFile) {
                 console.log("'%s' is a PDF file.", resourcePath);
 
-                const pdfFileUrl = baseUrl + resourcePath;
+                const pdfFileUrl = generatePdfFileUrlFromResourcePath(resourcePath);
 
                 markupContent += indent + '* [' + resource + '](' + pdfFileUrl + ')' + os.EOL;
             } else if (isValidDirectoryToScan) {
