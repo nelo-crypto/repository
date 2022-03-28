@@ -1,6 +1,6 @@
 # Repository
 
-A public repository, in PDF format, for the information I find useful and interisting over the internet.
+A public repository, in PDF format, for the information I find useful and interisting over the internet. 
 
 ## Contents
 
@@ -8,6 +8,7 @@ A public repository, in PDF format, for the information I find useful and interi
     * **DAO**
         * [How to DAO course notes (Sep-Oct 2021).pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDAO%2FHow%20to%20DAO%20course%20notes%20(Sep-Oct%202021).pdf)
     * **DeFi**
+        * [Formal Analysis of Composable DeFi Protocols.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FFormal%20Analysis%20of%20Composable%20DeFi%20Protocols.pdf)
     * **Interisting**
         * [How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin - 𝗪𝗢𝗥𝗗𝗦 Bitcoin Journal.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FInteristing%2FHow%20I%20checked%20over%201%20trillion%20mnemonics%20in%2030%20hours%20to%20win%20a%20bitcoin%20-%20%F0%9D%97%AA%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%97%F0%9D%97%A6%20Bitcoin%20Journal.pdf)
     * **NFT**
