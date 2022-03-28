@@ -1,0 +1,23 @@
+{
+  "name": "repository",
+  "version": "1.0.0",
+  "description": "Repository of information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelo-crypto/repository.git"
+  },
+  "keywords": [
+    "crypto",
+    "information"
+  ],
+  "author": "NeloCrypto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelo-crypto/repository/issues"
+  },
+  "homepage": "https://github.com/nelo-crypto/repository#readme"
+}
