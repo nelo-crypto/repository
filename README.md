@@ -20,6 +20,7 @@ A public repository, in PDF format, for the information I find useful and interi
         * [How to NFT.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FNFT%2FHow%20to%20NFT.pdf)
         * [Predicting the Bubble of Non-Fungible Tokens.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FNFT%2FPredicting%20the%20Bubble%20of%20Non-Fungible%20Tokens.pdf)
     * **Security**
+        * [Crypto-Crime-Report-2022.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FCrypto-Crime-Report-2022.pdf)
         * **Flashloans**
             * [Attacking the DeFi Ecosystem with Flash Loans.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FFlashloans%2FAttacking%20the%20DeFi%20Ecosystem%20with%20Flash%20Loans.pdf)
         * **Opsec**
