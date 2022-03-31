@@ -26,6 +26,7 @@ A public repository, in PDF format, for the information I find useful and interi
             * [Self-Sovereign-Identity.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FOpsec%2FSelf-Sovereign-Identity.pdf)
         * **Vulnerabilities**
             * [SS7_Vulnerability_2017_A4.ENG_.0003.03.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FVulnerabilities%2FSS7_Vulnerability_2017_A4.ENG_.0003.03.pdf)
+            * [What Caused the Accidental Killing of the Parity Multisig Wallet & How to Detect Similar Bugs | HackerNoon.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FVulnerabilities%2FWhat%20Caused%20the%20Accidental%20Killing%20of%20the%20Parity%20Multisig%20Wallet%20%26%20How%20to%20Detect%20Similar%20Bugs%20%7C%20HackerNoon.pdf)
     * **Startup**
         * [Defi project start checklist.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FStartup%2FDefi%20project%20start%20checklist.pdf)
     * **Tokenomics**
