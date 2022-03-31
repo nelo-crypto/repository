@@ -8,6 +8,7 @@ A public repository, in PDF format, for the information I find useful and interi
     * **DAO**
         * [How to DAO course notes (Sep-Oct 2021).pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDAO%2FHow%20to%20DAO%20course%20notes%20(Sep-Oct%202021).pdf)
     * **DeFi**
+        * [Can Terra escape the coupon coin curse.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FCan%20Terra%20escape%20the%20coupon%20coin%20curse.pdf)
         * [Formal Analysis of Composable DeFi Protocols.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FFormal%20Analysis%20of%20Composable%20DeFi%20Protocols.pdf)
         * [How Uniswap Become No.1 DEX in the World.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FHow%20Uniswap%20Become%20No.1%20DEX%20in%20the%20World.pdf)
         * [How to DeFi.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FHow%20to%20DeFi.pdf)
