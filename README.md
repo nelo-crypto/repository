@@ -16,6 +16,8 @@ A public repository, in PDF format, for the information I find useful and interi
         * [So you want to be a blockchain developer? tr3y.io.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDevelopment%2FSo%20you%20want%20to%20be%20a%20blockchain%20developer%3F%20tr3y.io.pdf)
     * **Interisting**
         * [How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin - 𝗪𝗢𝗥𝗗𝗦 Bitcoin Journal.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FInteristing%2FHow%20I%20checked%20over%201%20trillion%20mnemonics%20in%2030%20hours%20to%20win%20a%20bitcoin%20-%20%F0%9D%97%AA%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%97%F0%9D%97%A6%20Bitcoin%20Journal.pdf)
+    * **MEV**
+        * [The 0 to 1 guide for MEV.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FMEV%2FThe%200%20to%201%20guide%20for%20MEV.pdf)
     * **NFT**
         * [A Survey on Metaverse: Fundamentals, Security.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FNFT%2FA%20Survey%20on%20Metaverse%3A%20Fundamentals%2C%20Security.pdf)
         * [Demystifying NFT Jargons. Explaining the NFT jargons to help you… | by Puru Bansal | Mar, 2022 | Medium.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FNFT%2FDemystifying%20NFT%20Jargons.%20Explaining%20the%20NFT%20jargons%20to%20help%20you%E2%80%A6%20%7C%20by%20Puru%20Bansal%20%7C%20Mar%2C%202022%20%7C%20Medium.pdf)
