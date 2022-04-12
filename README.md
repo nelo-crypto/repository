@@ -30,10 +30,15 @@ A public repository, in PDF format, for the information I find useful and interi
         * **Vulnerabilities**
             * [SS7_Vulnerability_2017_A4.ENG_.0003.03.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FVulnerabilities%2FSS7_Vulnerability_2017_A4.ENG_.0003.03.pdf)
             * [What Caused the Accidental Killing of the Parity Multisig Wallet & How to Detect Similar Bugs | HackerNoon.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FVulnerabilities%2FWhat%20Caused%20the%20Accidental%20Killing%20of%20the%20Parity%20Multisig%20Wallet%20%26%20How%20to%20Detect%20Similar%20Bugs%20%7C%20HackerNoon.pdf)
+    * [Smart-Contracts-on-the-Blockchain-–-A-Bibliometric-Analysis-and-Review-Working-Paper-V2.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSmart-Contracts-on-the-Blockchain-%E2%80%93-A-Bibliometric-Analysis-and-Review-Working-Paper-V2.pdf)
     * **Startup**
         * [Defi project start checklist.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FStartup%2FDefi%20project%20start%20checklist.pdf)
+    * [The Challenges of Investigating Cryptocurrencies.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FThe%20Challenges%20of%20Investigating%20Cryptocurrencies.pdf)
+    * [The Hype Cycle model: A review and future directions.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FThe%20Hype%20Cycle%20model%3A%20A%20review%20and%20future%20directions.pdf)
     * **Tokenomics**
         * [Tokenomics 101 The Basics of Evaluating Cryptocurrencies - DeFriday #19 - Almanack - Every.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FTokenomics%2FTokenomics%20101%20The%20Basics%20of%20Evaluating%20Cryptocurrencies%20-%20DeFriday%20%2319%20-%20Almanack%20-%20Every.pdf)
         * [Tokenomics.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FTokenomics%2FTokenomics.pdf)
 * **Security**
     * [Actice Cyber Defence - The Fourth Year.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FActice%20Cyber%20Defence%20-%20The%20Fourth%20Year.pdf)
+    * **OSINT**
+        * [Hacking Cryptocurrency Miners with OSINT Techniques | by Seyfullah KILIÇ | Medium.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FOSINT%2FHacking%20Cryptocurrency%20Miners%20with%20OSINT%20Techniques%20%7C%20by%20Seyfullah%20KILI%C3%87%20%7C%20Medium.pdf)
