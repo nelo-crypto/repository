@@ -47,6 +47,8 @@ A public repository, in PDF format, for the information I find useful and interi
     * **Tokenomics**
         * [Tokenomics 101 The Basics of Evaluating Cryptocurrencies - DeFriday #19 - Almanack - Every.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FTokenomics%2FTokenomics%20101%20The%20Basics%20of%20Evaluating%20Cryptocurrencies%20-%20DeFriday%20%2319%20-%20Almanack%20-%20Every.pdf)
         * [Tokenomics.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FTokenomics%2FTokenomics.pdf)
+* **Privacy**
+    * [Systematizing Decentralization and Privacy - Lessons from 15 Years of Research and Deployments.pdf](https://github.com/nelo-crypto/repository/tree/main/Privacy%2FSystematizing%20Decentralization%20and%20Privacy%20-%20Lessons%20from%2015%20Years%20of%20Research%20and%20Deployments.pdf)
 * **Security**
     * [Actice Cyber Defence - The Fourth Year.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FActice%20Cyber%20Defence%20-%20The%20Fourth%20Year.pdf)
     * **OSINT**
