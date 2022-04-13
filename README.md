@@ -53,3 +53,5 @@ A public repository, in PDF format, for the information I find useful and interi
     * [Actice Cyber Defence - The Fourth Year.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FActice%20Cyber%20Defence%20-%20The%20Fourth%20Year.pdf)
     * **OSINT**
         * [Hacking Cryptocurrency Miners with OSINT Techniques | by Seyfullah KILIÇ | Medium.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FOSINT%2FHacking%20Cryptocurrency%20Miners%20with%20OSINT%20Techniques%20%7C%20by%20Seyfullah%20KILI%C3%87%20%7C%20Medium.pdf)
+* **Software**
+    * [How to read code written by other people – Telegraph.pdf](https://github.com/nelo-crypto/repository/tree/main/Software%2FHow%20to%20read%20code%20written%20by%20other%20people%20%E2%80%93%20Telegraph.pdf)
