@@ -50,6 +50,7 @@ A public repository, in PDF format, for the information I find useful and interi
 * **Privacy**
     * [Systematizing Decentralization and Privacy - Lessons from 15 Years of Research and Deployments.pdf](https://github.com/nelo-crypto/repository/tree/main/Privacy%2FSystematizing%20Decentralization%20and%20Privacy%20-%20Lessons%20from%2015%20Years%20of%20Research%20and%20Deployments.pdf)
 * **Security**
+    * [A Hacker Was Selling a Zero-Day Exploit As an NFT - CoinDesk.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FA%20Hacker%20Was%20Selling%20a%20Zero-Day%20Exploit%20As%20an%20NFT%20-%20CoinDesk.pdf)
     * [Actice Cyber Defence - The Fourth Year.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FActice%20Cyber%20Defence%20-%20The%20Fourth%20Year.pdf)
     * [Indistinguishability Obfuscation from Well-Founded Assumptions.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FIndistinguishability%20Obfuscation%20from%20Well-Founded%20Assumptions.pdf)
     * **OSINT**
