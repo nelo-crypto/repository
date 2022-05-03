@@ -51,6 +51,7 @@ A public repository, in PDF format, for the information I find useful and interi
     * [Systematizing Decentralization and Privacy - Lessons from 15 Years of Research and Deployments.pdf](https://github.com/nelo-crypto/repository/tree/main/Privacy%2FSystematizing%20Decentralization%20and%20Privacy%20-%20Lessons%20from%2015%20Years%20of%20Research%20and%20Deployments.pdf)
 * **Security**
     * [Actice Cyber Defence - The Fourth Year.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FActice%20Cyber%20Defence%20-%20The%20Fourth%20Year.pdf)
+    * [Indistinguishability Obfuscation from Well-Founded Assumptions.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FIndistinguishability%20Obfuscation%20from%20Well-Founded%20Assumptions.pdf)
     * **OSINT**
         * [Hacking Cryptocurrency Miners with OSINT Techniques | by Seyfullah KILIÇ | Medium.pdf](https://github.com/nelo-crypto/repository/tree/main/Security%2FOSINT%2FHacking%20Cryptocurrency%20Miners%20with%20OSINT%20Techniques%20%7C%20by%20Seyfullah%20KILI%C3%87%20%7C%20Medium.pdf)
 * **Software**
