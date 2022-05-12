@@ -20,6 +20,7 @@ A public repository, in PDF format, for the information I find useful and interi
         * [How to DeFi.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDeFi%2FHow%20to%20DeFi.pdf)
     * **Development**
         * [So you want to be a blockchain developer? tr3y.io.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FDevelopment%2FSo%20you%20want%20to%20be%20a%20blockchain%20developer%3F%20tr3y.io.pdf)
+    * [Flash Crash for Cash - Cyber Threats in Decentralized Finance.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FFlash%20Crash%20for%20Cash%20-%20Cyber%20Threats%20in%20Decentralized%20Finance.pdf)
     * **Interisting**
         * [How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin - 𝗪𝗢𝗥𝗗𝗦 Bitcoin Journal.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FInteristing%2FHow%20I%20checked%20over%201%20trillion%20mnemonics%20in%2030%20hours%20to%20win%20a%20bitcoin%20-%20%F0%9D%97%AA%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%97%F0%9D%97%A6%20Bitcoin%20Journal.pdf)
     * **MEV**
