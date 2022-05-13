@@ -35,6 +35,7 @@ A public repository, in PDF format, for the information I find useful and interi
         * [Crypto-Crime-Report-2022.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FCrypto-Crime-Report-2022.pdf)
         * **Flashloans**
             * [Attacking the DeFi Ecosystem with Flash Loans.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FFlashloans%2FAttacking%20the%20DeFi%20Ecosystem%20with%20Flash%20Loans.pdf)
+        * [Learning Best Practices from Web Applications to Avoid Similar Security Vulnerabilities in Decentralized Applications.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FLearning%20Best%20Practices%20from%20Web%20Applications%20to%20Avoid%20Similar%20Security%20Vulnerabilities%20in%20Decentralized%20Applications.pdf)
         * **Opsec**
             * [Self-Sovereign-Identity.pdf](https://github.com/nelo-crypto/repository/tree/main/Crypto%2FSecurity%2FOpsec%2FSelf-Sovereign-Identity.pdf)
         * **Vulnerabilities**
